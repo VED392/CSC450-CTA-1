@@ -1,0 +1,37 @@
+/* 
+Mod1 Pseudocode
+    Start main fuction 
+        Display welcome message to the user
+        Display confirmation of error correction
+        Prompt the user to press ENTER
+        Wait for user input using standard input (cin.get)
+        Return 0 to indicate successfule program termination
+    End main function
+
+Mod2 PseucdoCode
+    Start main function
+       Declare a double variable to store money amount (e.g., 1000.50)
+       Display message reminding us to correct syntax errors
+       Output the total money value using standard output (cout)
+       Return 0 to indicate successful program termination
+    End main function
+
+Fictional Person Pseudocode
+    Define class FictionalPerson with:
+        Private attributes: firstName, lastName, streetName, city, zipCode
+        Public: 
+            Constructor to initialize all attributes
+            Getter methods for each attribute (marked as constant)
+            Display methods to output all attributes(marked as constant)
+
+Start main function
+        Create first FictionalPerson object with name and address info
+        Create second FictionalPerson object with same name but different address info
+        Display details of the first peroson
+        Display details of the second person
+        Return 0 to indicate successful execution
+End main function
+
+TO make things better for same name and last name we can use add more attributes like age,hieght, weight, etc.or have special ID for each person.
+
+*/
